@@ -1,1 +1,1 @@
-# ASIA-Class_Biomedical-Data-Acquisition-and-Mining
+# Biomedical-Data-Acquisition-and-Mining
